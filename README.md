@@ -1,2 +1,3 @@
 # Mode_SQL
-SQL Queries with Mode SQL. 
+The questions are originated from Mode SQL. 
+Website: https://mode.com/sql-tutorial/intro-to-intermediate-sql/
